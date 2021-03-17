@@ -1,0 +1,18 @@
+{
+  "name": "@augm/flowto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node -r esm src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ctex": "0.0.3"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
