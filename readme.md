@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/marshallcb/flowto/raw/main/meta/flowto.png" alt="flowto" width="75" />
+  <img src="https://github.com/marshallcb/flowto/raw/main/meta/flowto.png" alt="flowto" width="100" />
 </div>
 
 <h1 align="center">flowto</h1>
